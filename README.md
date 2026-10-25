@@ -56,4 +56,22 @@
 
 <p dir="rtl" align="right"><strong>۵. Webhook:</strong> در این روش، یک سرویس آدرس مشخصی را برای دریافت رویدادها در اختیار سرویس دیگر قرار می‌دهد. وقتی رویدادی اتفاق می‌افتد، سرویس ارسال‌کننده بدون اینکه منتظر درخواست جدیدی بماند، معمولا با یک درخواست HTTP POST اطلاعات آن رویداد را به آدرس ثبت‌شده می‌فرستد. این روش بیشتر برای ارتباط بین سرورها کاربرد دارد و برخلاف WebSocket و SSE، به معنی ارسال مستقیم پیام به مرورگر کاربر نیست.</p>
 
+## سؤال چهارم
+
+<p dir="rtl" align="right">• <strong>Scheme:</strong> <code>ss</code> (مربوط به Shadowsocks)</p>
+
+<p dir="rtl" align="right">• <strong>Username:</strong> <code>asghar</code></p>
+
+<p dir="rtl" align="right">• <strong>Password:</strong> <code>1234!!</code></p>
+
+<p dir="rtl" align="right">• <strong>Host:</strong> <code>ss.myproxy.com</code></p>
+
+<p dir="rtl" align="right">• <strong>Port:</strong> <code>1234</code></p>
+
+<p dir="rtl" align="right">• <strong>Path:</strong> ندارد.</p>
+
+<p dir="rtl" align="right">• <strong>Query:</strong> ندارد.</p>
+
+<p dir="rtl" align="right">• <strong>Fragment:</strong> <code>shadowSocks1</code></p>
+
 </div>
