@@ -58,20 +58,20 @@
 
 ## سؤال چهارم
 
-<p dir="rtl" align="right">• <strong>Scheme:</strong> <code>ss</code> (مربوط به Shadowsocks)</p>
+<p dir="ltr" align="left"><strong>Scheme:</strong> <code>ss</code> (Shadowsocks)</p>
 
-<p dir="rtl" align="right">• <strong>Username:</strong> <code>asghar</code></p>
+<p dir="ltr" align="left"><strong>Username:</strong> <code>asghar</code></p>
 
-<p dir="rtl" align="right">• <strong>Password:</strong> <code>1234!!</code></p>
+<p dir="ltr" align="left"><strong>Password:</strong> <code>1234!!</code></p>
 
-<p dir="rtl" align="right">• <strong>Host:</strong> <code>ss.myproxy.com</code></p>
+<p dir="ltr" align="left"><strong>Host:</strong> <code>ss.myproxy.com</code></p>
 
-<p dir="rtl" align="right">• <strong>Port:</strong> <code>1234</code></p>
+<p dir="ltr" align="left"><strong>Port:</strong> <code>1234</code></p>
 
-<p dir="rtl" align="right">• <strong>Path:</strong> ندارد.</p>
+<p dir="ltr" align="left"><strong>Path:</strong> None</p>
 
-<p dir="rtl" align="right">• <strong>Query:</strong> ندارد.</p>
+<p dir="ltr" align="left"><strong>Query:</strong> None</p>
 
-<p dir="rtl" align="right">• <strong>Fragment:</strong> <code>shadowSocks1</code></p>
+<p dir="ltr" align="left"><strong>Fragment:</strong> <code>shadowSocks1</code></p>
 
 </div>
