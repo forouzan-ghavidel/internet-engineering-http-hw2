@@ -6,7 +6,7 @@ services:
     environment:
       BACKEND_URL: "http://backend:8081"
     ports:
-      - "127.0.0.1:80:80"
+      - "${PROXY_BIND_ADDRESS:-127.0.0.1}:80:80"
     networks:
       - frontend
       - internal
