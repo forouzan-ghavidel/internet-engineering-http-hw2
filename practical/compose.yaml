@@ -1,4 +1,14 @@
 services:
+  proxy:
+    build: .
+    environment:
+      BACKEND_URL: "http://backend:8081"
+    ports:
+      - "127.0.0.1:80:80"
+    networks:
+      - frontend
+      - internal
+
   backend:
     image: ghcr.io/mccutchen/go-httpbin:2.26.0
     environment:
@@ -7,5 +17,6 @@ services:
       - internal
 
 networks:
+  frontend:
   internal:
     internal: true
