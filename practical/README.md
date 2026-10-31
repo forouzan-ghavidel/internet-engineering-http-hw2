@@ -197,4 +197,8 @@ docker compose -f practical/compose.yaml down
 
 </div>
 
+<h2 dir="rtl" align="right">استفاده از هوش مصنوعی</h2>
+
+<p dir="rtl" align="right">در انجام این تمرین از <span dir="ltr">ChatGPT</span> برای کمک در پیاده‌سازی، بررسی و رفع اشکال کدها و همچنین تنظیم و بازبینی توضیحات استفاده کردم. عملکرد بخش‌های مختلف پروژه و نتایج آزمایش‌ها را نیز بررسی کردم.</p>
+
 </div>
