@@ -1,0 +1,11 @@
+services:
+  backend:
+    image: ghcr.io/mccutchen/go-httpbin:2.26.0
+    environment:
+      PORT: "8081"
+    networks:
+      - internal
+
+networks:
+  internal:
+    internal: true
